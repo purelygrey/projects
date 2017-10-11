@@ -3,4 +3,6 @@
 
 Project files for various audio creation software (Sunvox, LSDJ (4.7.3), Famitracker, etc). Hope they'll be useful!
 
+Consider supporting on Patreon: https://www.patreon.com/purelygrey
+
 My website: http://purelygrey.com
